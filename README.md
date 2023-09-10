@@ -6,4 +6,4 @@ Visuals
 -->Bar graph
 -->Pie Chart
 -->Table
--->Filters
+-->Filters.
