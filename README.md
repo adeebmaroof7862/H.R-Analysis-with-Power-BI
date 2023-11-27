@@ -7,3 +7,5 @@ Visuals
 -->Pie Chart
 -->Table
 -->Filters.
+
+![HR Analysis Dashboard](https://github.com/adeebmaroof7862/H.R-Analysis-with-Power-BI/assets/124773771/61101141-f19d-4a60-babf-1a45be9f8c1a)
